@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convex hull", "Convex hull\Convex hull.csproj", "{51CA5877-A2AB-427E-BFEA-C45B0F072F03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51CA5877-A2AB-427E-BFEA-C45B0F072F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CA5877-A2AB-427E-BFEA-C45B0F072F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CA5877-A2AB-427E-BFEA-C45B0F072F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CA5877-A2AB-427E-BFEA-C45B0F072F03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03C5D412-7925-405F-9CBE-0B62E53C0F6F}
+	EndGlobalSection
+EndGlobal
